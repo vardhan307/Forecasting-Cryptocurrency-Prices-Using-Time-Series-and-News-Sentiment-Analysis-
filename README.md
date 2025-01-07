@@ -2,7 +2,10 @@
 # Project Overview
 This project leverages advanced machine learning models such as GRU, LSTM, ARIMA, and XGBoost to forecast Bitcoin prices. By integrating sentiment analysis from social media and news, it aims to enhance predictive accuracy and provide insights into market trends.
 # Features
-Data Collection and Preprocessing: Removing null values to prepare the dataset and Extracted Bitcoin price data and sentiment scores.
+#data collection :
+i have downloaded bitcoin data from yahoo finance and uploaded the file in the git hub after downloading.
+for Sentiment data we are using it through kaggle directly using API TOKEN i have uploaded the api token as well use that file to read the sentiment data
+Preprocessing: Removing null values to prepare the dataset and Extracted Bitcoin price data and sentiment scores.
 Feature Engineering: Created lagged features, rolling averages, and sentiment-price interaction terms.
 # Model Implementation:
 ARIMA: Captures linear trends.
