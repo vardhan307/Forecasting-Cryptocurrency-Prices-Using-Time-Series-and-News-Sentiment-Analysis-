@@ -28,7 +28,7 @@ Forecast Visualization: Use libraries like matplotlib, Plotly, and Seaborn to ge
 Results
 XGBoost outperformed other models with an R² of 0.97 and a low RMSE. Sentiment features enhanced short-term prediction accuracy.
 
-#Future Work
+# Future Work
 Real-time sentiment analysis.
 Testing models on other cryptocurrencies.
 Exploring hybrid models for improved accuracy.
